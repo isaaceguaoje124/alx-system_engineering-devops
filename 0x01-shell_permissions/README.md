@@ -1,1 +1,1 @@
-0 task: su betty switches the current user to user betty
+1 task: id -un prints the effective username of the current user.
